@@ -1,39 +1,43 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ayush Raman
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Statistical Epigenomics Postdoc Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Broad Institute
+  url: https://www.broadinstitute.org/
+- name: Massachusetts General Hospital, Harvard Medical School
+  url: https://www.massgeneral.org/pathology/research/aryee-lab
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I develop tools/approaches for data analysis and apply machine learning algorithms to understand biology.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Epigenetics and Gene Expression
+- Statistical Analysis
+- Machine Learning
+- Computational Biology
+- Single Cell Analysis
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Quantitative and Computational Biosciences
+    institution: Baylor College of Medicine
+    year: 2018
+  - course: MS in Computational Biology
+    institution: Carnegie Mellon University
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BTech in Bioinformatics
+    institution: Vellore Institute of Technology
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,19 +46,23 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:araman@broadinstitute.org'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/aayushraman
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=IaLzKOIAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/aayushraman
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/aayushraman
+- icon: orcid
+  icon_pack: fab
+  link: 'https://orcid.org/0000-0003-2872-2307'
+ 
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -64,14 +72,16 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "araman@broadinstitute.org"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Postdoc Associate at [Broad Institute of MIT and Harvard](https://broadinstitute.org/) and [MGH, Harvard Medical School](https://www.massgeneral.org/pathology/research). I am working with the labs of [Martin Aryee](https://aryee.mgh.harvard.edu/), [Alex Meissner](https://hscrb.harvard.edu/people/alexander-meissner/), and [Andi Gnirke](https://www.broadinstitute.org/epigenomics/team) to understand the dynamics of gene regulation using single-cell genomics.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I earned my Ph.D. in Quantitative and Computational Biosciences at the Baylor College of Medicine, where I worked with [Zhandong Liu](http://liuzlab.org/) and [Huda Zoghbi](https://www.bcm.edu/research/labs-and-centers/faculty-labs/huda-zoghbi-lab) in Rett Syndrome and with [Kunal Rai](https://www.mdanderson.org/research/departments-labs-institutes/labs/rai-laboratory/lab-members.html) in the field of the cancer epigenomics. Prior to my Ph.D. studies, I worked as a Bioinformatics Scientist at the [Institute for Systems Biology](https://isbscience.org/), Seattle.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I completed my MS in Computational Biology from [Carnegie Mellon](https://www.cmu.edu/ms-compbio/) and did my undergrad at [Vellore Institute of Technology](https://vit.ac.in/), where I earned a B.Tech in Bioinformatics.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Jan2021.pdf" "newtab" >}}CV{{< /staticref >}}.

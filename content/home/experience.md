@@ -5,11 +5,12 @@ widget: experience
 
 # This file represents a page section.
 headless: true
+active: false
 
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Relevant Experience
 subtitle:
 
 # Date format for experience
@@ -22,24 +23,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Statistical Epigenomics Postdoc Associate 
+    company: Broad Institute
+    company_url: https://www.broadinstitute.org/epigenomics
+    location: Boston, MA
+    date_start: '2018-12-03'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+    description: 
+  
+  - title: Graduate Student 
+    company: Baylor College of Medicine and Genome Medicine, MD Anderson Cancer Center
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Boston, MA
+    date_start: '2018-12-03'
+    date_end: ''
+    description: 
+
+  - title: Bioinformatics Scientist
+    company: Institute for Systems Biology 
+    company_url: 'https://isbscience.org/bio/ilya-shmulevich-phd/'
+    location: Seattle, WA
+    date_start: '2010-07-12'
+    date_end: '2013-07-09'
+    description:
 ---
