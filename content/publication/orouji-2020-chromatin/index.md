@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Chromatin State Dynamics Confers Specific Therapeutic Strategies in Enhancer
-  Subtypes of Colorectal Cancer
+title: Chromatin State Dynamics Confers Specific Therapeutic Strategies in Enhancer Subtypes of Colorectal Cancer
 subtitle: ''
 summary: ''
 authors:
@@ -27,6 +26,7 @@ date: '2020-01-01'
 lastmod: 2021-01-21T18:32:44-05:00
 featured: false
 draft: false
+url_pdf: 'https://doi.org/10.1101/2020.09.04.283838'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

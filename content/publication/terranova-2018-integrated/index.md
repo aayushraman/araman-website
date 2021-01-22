@@ -19,6 +19,7 @@ date: '2018-01-01'
 lastmod: 2021-01-21T18:32:43-05:00
 featured: false
 draft: false
+url_pdf: 'https://www.jove.com/t/56972/an-integrated-platform-for-genome-wide-mapping-chromatin-states-using'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

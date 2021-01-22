@@ -12,6 +12,7 @@ date: '2015-01-01'
 lastmod: 2021-01-21T18:32:42-05:00
 featured: false
 draft: false
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0092867415006340'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

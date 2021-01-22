@@ -12,6 +12,7 @@ date: '2021-01-01'
 lastmod: 2021-01-21T18:32:45-05:00
 featured: false
 draft: false
+url_pdf: 'https://osf.io/bec69'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

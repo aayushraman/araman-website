@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Detecting hidden batch factors through data adaptive adjustment for biological
-  effects
+title: Detecting hidden batch factors through data adaptive adjustment for biological effects
 subtitle: ''
 summary: ''
 authors:
@@ -20,6 +19,7 @@ date: '2017-01-01'
 lastmod: 2021-01-21T18:32:42-05:00
 featured: false
 draft: false
+url_pdf: 'https://doi.org/10.1093/bioinformatics/btx635'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

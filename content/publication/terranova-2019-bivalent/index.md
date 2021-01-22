@@ -22,6 +22,8 @@ date: '2019-01-01'
 lastmod: 2021-01-21T18:32:44-05:00
 featured: false
 draft: false
+url_pdf: 'https://www.biorxiv.org/content/10.1101/721480v1.abstract'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

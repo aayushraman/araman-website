@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A FOXO3--IRF7 gene regulatory circuit limits inflammatory sequelae of antiviral
-  responses
+title: A FOXO3--IRF7 gene regulatory circuit limits inflammatory sequelae of antiviral responses
 subtitle: ''
 summary: ''
 authors:
@@ -22,6 +21,7 @@ date: '2012-01-01'
 lastmod: 2021-01-21T18:32:42-05:00
 featured: false
 draft: false
+url_pdf: 'https://www.nature.com/articles/nature11428'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

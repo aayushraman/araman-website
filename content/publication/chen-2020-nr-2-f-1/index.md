@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Nr2f1 heterozygous knockout mice recapitulate neurological phenotypes of Bosch-Boonstra-Schaaf
-  optic atrophy syndrome and show impaired hippocampal synaptic plasticity
+title: Nr2f1 heterozygous knockout mice recapitulate neurological phenotypes of Bosch-Boonstra-Schaaf optic atrophy syndrome and show impaired hippocampal synaptic plasticity
 subtitle: ''
 summary: ''
 authors:
@@ -23,6 +22,7 @@ date: '2020-01-01'
 lastmod: 2021-01-21T18:32:44-05:00
 featured: false
 draft: false
+url_pdf: 'https://academic.oup.com/hmg/article-abstract/29/5/705/5584445'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
