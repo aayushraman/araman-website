@@ -22,7 +22,7 @@ design:
   #   4 = Citation (publication only)
   view: 1
 ---
-- Preprint of my [commentary article on secondary analysis](https://osf.io/bec69)
+- Preprint of the [commentary article on secondary analysis](https://osf.io/bec69)
 - Preprint of our recent paper on [enhancer subtypes in colorectal cancer](https://www.biorxiv.org/content/10.1101/2020.09.04.283838v1)
 - Hechter Memorial Travel Award, Broad Institute (Dec 2020)
 - MCBIOS Young Scientist Excellence Postdoc Award (June 2020)
