@@ -5,7 +5,7 @@ widget: featured
 
 # This file represents a page section.
 headless: true
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 80
@@ -35,3 +35,16 @@ design:
   #   4 = Citation (publication only)
   view: 1
 ---
+1. E Orouji†, **AT Raman**†, AK Singh† et al. [Chromatin State Dynamics Confers Specific Therapeutic Strategies in Enhancer Subtypes of Colorectal Cancer](https://doi.org/10.1101/2020.09.04.283838). *bioRxiv* (2020)
+2. **AT Raman**†, AE Pohodich†, YW Wan, HK Yalamanchili, HY Zoghbi, Z Liu. [Apparent
+bias towards long gene misregulation in MeCP2 syndromes disappears after controlling for
+baseline variations](https://www.nature.com/articles/s41467-018-05627-1). *Nature Communications* (2018)
+3. H Yi†, **AT Raman**†, H Zhang, G Allen and Z Liu. [Detecting hidden batch factors
+through data-adaptive adjustment for biological effects](https://doi.org/10.1093/bioinformatics/btx635). *Bioinformatics* (2018)
+4. A Pohodich, HK Yalamanchili, **AT Raman**, YW Wan, M Gundry, S Hao, H Jin, J
+Tang, Z Liu, H Zoghbi. [Forniceal deep brain stimulation induces gene expression and
+splicing changes that promote neurogenesis and synaptic plasticity](https://elifesciences.org/articles/34031). *eLife* (2018) 
+5. U Oleksiewicz†, M Gladych†, **AT Raman**† et al. [KRAB/TRIM28 preserve self-renewal
+of human pluripotent stem cells through epigenetic repression of pro-differentiation genes](https://linkinghub.elsevier.com/retrieve/pii/S2213671117304861). *Stem Cell Reports* (2017)
+
+†Co-first authorship

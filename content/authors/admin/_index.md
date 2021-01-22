@@ -18,14 +18,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I develop tools/approaches for data analysis and apply machine learning algorithms to understand biology.
 
-# Interests to show in About widget
-interests:
-- Epigenetics and Gene Expression
-- Statistical Analysis
-- Machine Learning
-- Computational Biology
-- Single Cell Analysis
-
 # Education to show in About widget
 education:
   courses:
@@ -38,6 +30,14 @@ education:
   - course: BTech in Bioinformatics
     institution: Vellore Institute of Technology
     year: 2006
+
+# Interests to show in About widget
+interests:
+- Epigenetics and Gene Expression
+- Statistical Analysis
+- Machine Learning
+- Computational Biology
+- Single Cell Analysis
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -80,8 +80,8 @@ highlight_name: true
 
 I am a Postdoc Associate at [Broad Institute of MIT and Harvard](https://broadinstitute.org/) and [MGH, Harvard Medical School](https://www.massgeneral.org/pathology/research). I am working with the labs of [Martin Aryee](https://aryee.mgh.harvard.edu/), [Alex Meissner](https://hscrb.harvard.edu/people/alexander-meissner/), and [Andi Gnirke](https://www.broadinstitute.org/epigenomics/team) to understand the dynamics of gene regulation using single-cell genomics.  
 
-I earned my Ph.D. in Quantitative and Computational Biosciences at the Baylor College of Medicine, where I worked with [Zhandong Liu](http://liuzlab.org/) and [Huda Zoghbi](https://www.bcm.edu/research/labs-and-centers/faculty-labs/huda-zoghbi-lab) in Rett Syndrome and with [Kunal Rai](https://www.mdanderson.org/research/departments-labs-institutes/labs/rai-laboratory/lab-members.html) in the field of the cancer epigenomics. Prior to my Ph.D. studies, I worked as a Bioinformatics Scientist at the [Institute for Systems Biology](https://isbscience.org/), Seattle.
+I earned my Ph.D. in Quantitative and Computational Biosciences at the [Baylor College of Medicine](https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/programs/quantitative-computational-biosciences), where I worked with [Zhandong Liu](http://liuzlab.org/) and [Huda Zoghbi](https://www.bcm.edu/research/labs-and-centers/faculty-labs/huda-zoghbi-lab) in Rett Syndrome and with [Kunal Rai](https://www.mdanderson.org/research/departments-labs-institutes/labs/rai-laboratory.html) in the field of the cancer epigenomics. Prior to my Ph.D. studies, I worked as a Bioinformatics Scientist at the [Institute for Systems Biology](https://isbscience.org/), Seattle.
 
 I completed my MS in Computational Biology from [Carnegie Mellon](https://www.cmu.edu/ms-compbio/) and did my undergrad at [Vellore Institute of Technology](https://vit.ac.in/), where I earned a B.Tech in Bioinformatics.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Jan2021.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Here is my {{< staticref "media/CV_Jan2021.pdf" "newtab" >}}CV{{< /staticref >}}.
