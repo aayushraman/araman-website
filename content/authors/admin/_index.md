@@ -72,7 +72,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "araman@broadinstitute.org"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
