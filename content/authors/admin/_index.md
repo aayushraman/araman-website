@@ -82,6 +82,6 @@ I am a Postdoc Associate at [Broad Institute of MIT and Harvard](https://broadin
 
 I earned my Ph.D. in Quantitative and Computational Biosciences at the [Baylor College of Medicine](https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/programs/quantitative-computational-biosciences), where I worked with [Zhandong Liu](http://liuzlab.org/) and [Huda Zoghbi](https://www.bcm.edu/research/labs-and-centers/faculty-labs/huda-zoghbi-lab) in Rett Syndrome and with [Kunal Rai](https://www.mdanderson.org/research/departments-labs-institutes/labs/rai-laboratory.html) in the field of the cancer epigenomics. Prior to my Ph.D. studies, I worked as a Bioinformatics Scientist at the [Institute for Systems Biology](https://isbscience.org/), Seattle.
 
-I completed my MS in Computational Biology from [Carnegie Mellon](https://www.cmu.edu/ms-compbio/) and did my undergrad at [Vellore Institute of Technology](https://vit.ac.in/), where I earned a B.Tech in Bioinformatics.
+I completed my MS in Computational Biology from [Carnegie Mellon](https://www.cmu.edu/ms-compbio/) and did my undergrad at [Vellore Institute of Technology](https://vit.ac.in/), where I earned B.Tech in Bioinformatics.
 
 {{< icon name="download" pack="fas" >}} Here is my {{< staticref "media/CV_Jan2021.pdf" "newtab" >}}CV{{< /staticref >}}.
