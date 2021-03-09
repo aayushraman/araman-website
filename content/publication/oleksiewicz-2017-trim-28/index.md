@@ -19,7 +19,7 @@ author_notes:
 - Equal contribution
 - Equal contribution
 - Equal contribution
-tags: [stem-cells, epigenetics, rai-lab, repetitive-elements, TRIM28, iPSCs, differentiation, KRAB-ZNFs]
+tags: [stem-cells, epigenetics, repetitive-elements, iPSCs, differentiation, KRAB-ZNFs, rai-lab]
 categories: []
 date: '2017-01-01'
 lastmod: 2021-01-21T18:32:42-05:00

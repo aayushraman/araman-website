@@ -15,7 +15,7 @@ authors:
 - Jianrong Tang
 - Zhandong Liu
 - Huda Y Zoghbi
-tags: [Rett-syndrome, neurological-disorder, liu-lab, zoghbi-lab]
+tags: [rett-syndrome, neurological-disorder, liu-lab, meta-research, zoghbi-lab]
 categories: []
 date: '2018-01-01'
 lastmod: 2021-01-21T18:32:43-05:00

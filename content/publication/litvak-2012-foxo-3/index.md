@@ -15,7 +15,7 @@ authors:
 - Andreas Bergthaler
 - John Aitchison
 - Alan Aderem
-tags: [immunology, ChIP-seq, regulatory-networks]
+tags: [immunology, regulatory-networks]
 categories: []
 date: '2012-01-01'
 lastmod: 2021-01-21T18:32:42-05:00

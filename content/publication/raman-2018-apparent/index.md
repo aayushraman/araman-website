@@ -16,7 +16,7 @@ authors:
 author_notes:
 - Equal contribution
 - Equal contribution
-tags: [Rett-syndrome, long-gene-bias, research-parasite, neurological-disorder, rai-lab]
+tags: [rett-syndrome, long-gene-bias, research-parasite, neurological-disorder, meta-research, batch-effects, liu-lab, zoghbi-lab]
 categories: []
 date: '2018-01-01'
 lastmod: 2021-01-21T18:32:43-05:00

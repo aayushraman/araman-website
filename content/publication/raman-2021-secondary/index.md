@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - admin
-tags: [commentary-article, research-parasite]
+tags: [commentary-article, research-parasite, rett-syndrome, long-gene-bias]
 categories: []
 date: '2021-01-01'
 lastmod: 2021-01-21T18:32:45-05:00

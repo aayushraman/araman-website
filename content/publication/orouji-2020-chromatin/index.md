@@ -20,7 +20,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
-tags: [cancer-epigenetics, colorectal-cancer, rai-lab, ChIP-seq]
+tags: [cancer-epigenetics, colorectal-cancer, rai-lab]
 categories: []
 date: '2020-01-01'
 lastmod: 2021-01-21T18:32:44-05:00

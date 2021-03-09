@@ -13,7 +13,7 @@ authors:
 author_notes:
 - Equal contribution
 - Equal contribution
-tags: [batch-effects, research-parasite, liu-lab]
+tags: [batch-effects, research-parasite, meta-research, liu-lab]
 categories: []
 date: '2017-01-01'
 lastmod: 2021-01-21T18:32:42-05:00
