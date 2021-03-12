@@ -22,7 +22,7 @@ design:
   #   4 = Citation (publication only)
   view: 1
 ---
-- Commentary article [on secondary analysis and my experience as a research parasite](10.1093/gigascience/giab015)
+- Commentary article on my experience as a [research parasite](https://doi.org/10.1093/gigascience/giab015)
 - Preprint of our recent paper on [enhancer subtypes in colorectal cancer](https://www.biorxiv.org/content/10.1101/2020.09.04.283838v1)
 - Hechter Memorial Travel Award, Broad Institute (Dec 2020)
 - MCBIOS Young Scientist Excellence Postdoc Award (June 2020)
