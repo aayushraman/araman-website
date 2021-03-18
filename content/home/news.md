@@ -29,5 +29,3 @@ analysis. Accepted in Nature Protocol (2021)
 - Hechter Memorial Travel Award, Broad Institute (Dec 2020)
 - MCBIOS Young Scientist Excellence Postdoc Award (June 2020)
 - [Junior Research Parasite Award for Rigorous Secondary Data Analysis](https://researchparasite.com/#past-recipients) (Jan 2020)
-
-#- Gigascience Travel Award to attend the Pacific Symposium on Biocomputing Conference (Jan 2020)
