@@ -1,32 +1,25 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Chromatin State Dynamics Confers Specific Therapeutic Strategies in Enhancer Subtypes of Colorectal Cancer
+title: Extended-representation bisulfite sequencing of gene regulatory elements in multiplexed samples and single cells
 subtitle: ''
 summary: ''
 authors:
-- Elias Orouji
+- Sarah J Shareef
+- Samantha M Bevill
 - admin
-- Anand K Singh
-- Alexey Sorokin
-- Emre Arslan
-- Archit K Ghosh
-- Jonathan Schulz
-- Christopher J Terranova
-- Ming Tang
-- Mayinuer Maitituoheti
-- et al
+- Martin J Aryee
+- Peter van Galen 
+- Volker Hovestadt
+- Bradley E Bernstein
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-tags: [cancer-epigenetics, colorectal-cancer, rai-lab]
+tags: [dna-methylation, epigenetics, single-cell, tech-dev, bernstein-lab]
 categories: []
-date: '2020-01-01'
-lastmod: 2021-01-21T18:32:44-05:00
+date: '2021-05-06'
+lastmod: 2021-05-12T18:32:42-05:00
 featured: false
 draft: false
-url_pdf: 'https://doi.org/10.1101/2020.09.04.283838'
+url_pdf: 'https://www.nature.com/articles/s41587-021-00910-x'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -42,9 +35,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-21T23:32:44.628896Z'
+publishDate: '2021-05-12T18:32:42-05:00'
 publication_types:
 - '2'
 abstract: ''
-publication: '*bioRxiv; (Accepted in Gut)*'
+publication: '*Nature Biotech*'
 ---
