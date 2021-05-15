@@ -39,5 +39,5 @@ publishDate: '2021-05-12T18:32:42-05:00'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Nature Biotech*'
+publication: '*Nature Biotechnology*'
 ---
