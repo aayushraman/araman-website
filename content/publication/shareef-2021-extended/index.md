@@ -14,7 +14,7 @@ authors:
 - Bradley E Bernstein
 tags: [dna-methylation, epigenetics, single-cell, tech-dev, bernstein-lab]
 categories: []
-date: '2020-01-01'
+date: '2021-05-06'
 lastmod: 2021-01-21T18:32:44-05:00
 featured: false
 draft: false
