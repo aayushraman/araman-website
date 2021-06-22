@@ -1,29 +1,32 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Bivalent and Broad Chromatin Domains Regulate Pro-metastatic Drivers in Melanoma
+title: Chromatin State Dynamics Confers Specific Therapeutic Strategies in Enhancer Subtypes of Colorectal Cancer
 subtitle: ''
 summary: ''
 authors:
-- Christopher Terranova
+- Elias Orouji
+- admin
+- Anand K Singh
+- Alexey Sorokin
+- Emre Arslan
+- Archit K Ghosh
+- Jonathan Schulz
+- Christopher J Terranova
 - Ming Tang
 - Mayinuer Maitituoheti
-- admin
-- Jonathan Schulz
-- Samir Amin
-- Elias Orouji
-- Katarzyna Tomczak
-- Sharmistha Sarkar
-- Junna Oba
 - et al
-tags: [cancer-epigenetics, rai-lab]
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+tags: [cancer-epigenetics, colorectal-cancer, enhancer, rai-lab]
 categories: []
-date: '2021-05-23'
+date: '2021-05-31'
 lastmod: 2021-01-21T18:32:44-05:00
 featured: false
 draft: false
-url_pdf: 'https://www.biorxiv.org/content/10.1101/721480v1.abstract'
-
+url_pdf: 'https://doi.org/10.1101/2020.09.04.283838'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -39,9 +42,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-21T23:32:44.075918Z'
+publishDate: '2021-01-21T23:32:44.628896Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Accepted in Cell Reports*'
+publication: '*Gut*'
 ---

@@ -1,32 +1,40 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Chromatin State Dynamics Confers Specific Therapeutic Strategies in Enhancer Subtypes of Colorectal Cancer
+title: Enhancer reprogramming in PRC2-deficient malignant peripheral nerve sheath tumors induces a targetable de-differentiated state
 subtitle: ''
 summary: ''
 authors:
-- Elias Orouji
+- Veena Kochat
 - admin
-- Anand K Singh
-- Alexey Sorokin
-- Emre Arslan
-- Archit K Ghosh
-- Jonathan Schulz
-- Christopher J Terranova
+- Sharon M Landers
 - Ming Tang
-- Mayinuer Maitituoheti
-- et al
+- Jonathan Schulz
+- Christopher Terranova
+- Jace P Landry
+- Angela D Bhalla
+- Hannah C Beird
+- Chia-Chin Wu
+- ....
+- Wei-Lien Wang
+- Alexander J. Lazar
+- John M. Slopis
+- Heather Wilson-Robles
+- Dominique Wiener
+- Ian E. McCutcheon
+- Brandan Wustefeld-Janssens
+- Kunal Rai
+- Keila Torres
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-- "Equal contribution"
-tags: [cancer-epigenetics, colorectal-cancer, rai-lab]
+tags: [cancer-epigenetics, MPNST, enhancer, rai-lab, torres-lab]
 categories: []
-date: '2020-01-01'
+date: '2021-06-23'
 lastmod: 2021-01-21T18:32:44-05:00
 featured: false
 draft: false
-url_pdf: 'https://doi.org/10.1101/2020.09.04.283838'
+url_pdf: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -42,9 +50,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-21T23:32:44.628896Z'
+publishDate: '2021-01-21T23:32:44.257684Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*bioRxiv; (Accepted in Gut)*'
+publication: '*Accepted in Acta Neuropathologica*'
 ---
