@@ -11,11 +11,24 @@ authors:
 - Ming Tang
 - Jonathan Schulz
 - Christopher Terranova
-- Jace P Landry
-- Angela D Bhalla
-- Hannah C Beird
+- Jace Landry
+- Angela Bhalla
+- Hannah Beird
 - Chia-Chin Wu
-- ....
+- Yingda Jiang
+- Xizeng Mao
+- Rossana Lazcano
+- Swati Gite
+- Davis Ingram
+- Min Yi
+- Jianhua Zhang
+- Emily Keung
+- Christopher Scally
+- Christina Roland
+- Kelly Hunt
+- Barry Feig
+- Andrew Futreal
+- Patrick Hwu 
 - Wei-Lien Wang
 - Alexander J. Lazar
 - John M. Slopis
