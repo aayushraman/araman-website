@@ -14,7 +14,6 @@ authors:
 - Jonathan Schulz
 - Christopher J Terranova
 - Ming Tang
-- Mayinuer Maitituoheti
 - et al
 author_notes:
 - "Equal contribution"
