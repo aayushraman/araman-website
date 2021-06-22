@@ -26,7 +26,7 @@ date: '2021-05-31'
 lastmod: 2021-01-21T18:32:44-05:00
 featured: false
 draft: false
-url_pdf: 'https://doi.org/10.1101/2020.09.04.283838'
+url_pdf: 'http://dx.doi.org/10.1136/gutjnl-2020-322835'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
