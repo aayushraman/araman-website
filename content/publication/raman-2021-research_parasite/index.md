@@ -12,7 +12,7 @@ date: '2021-03-12'
 lastmod: 2021-03-12T18:32:43-05:00
 featured: false
 draft: false
-url_pdf: ''
+url_pdf: 'https://doi.org/10.1093/gigascience/giab015'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
