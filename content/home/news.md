@@ -23,9 +23,9 @@ design:
   view: 1
 ---
 
+- 07-2021: Our dual-omics protocol manuscript for profiling of methylome and transcriptome in single cell got published in [Nature Protocols](https://doi.org/10.1038/s41596-021-00571-9)
 - 06-2021: Our manuscript on enhancer reprogramming in MPNST tumors got accepted in Acta Neuropathologica
-- 06-2021: Our dual-omics protocol manuscript for profiling of methylome and transcriptome in single cell got accepted in Nature Protocol
-- 05-2021: Our manuscript on enhancer subtypes in colorectal cancer was published in [Gut](https://dx.doi.org/10.1136/gutjnl-2020-322835).
+- 05-2021: Our manuscript on enhancer subtypes in colorectal cancer got published in [Gut](https://dx.doi.org/10.1136/gutjnl-2020-322835).
 - 03-2021: Commentary article on my experience as a research parasite in [GigaScience](https://doi.org/10.1093/gigascience/giab015)
 - 12-2020: Hechter Memorial Travel Award, Broad Institute
 - 06-2020: MCBIOS Young Scientist Excellence Postdoc Award 

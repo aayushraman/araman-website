@@ -1,0 +1,41 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: Extended-representation bisulfite sequencing of gene regulatory elements in multiplexed samples and single cells
+subtitle: ''
+summary: ''
+authors:
+- Hongcang Gu
+- admin
+- Xiaoxue Wang
+- Federico Gaiti
+- Ronan Chaligne
+- et al
+tags: [dna-methylation, single-cell, tech-dev, gnirke-lab, meissner-lab]
+categories: []
+date: '2021-07-09'
+lastmod: 2021-01-21T18:32:44-05:00
+featured: false
+draft: false
+url_pdf: 'https://doi.org/10.1038/s41596-021-00571-9'
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-01-21T23:32:44.257684Z'
+publication_types:
+- '2'
+abstract: ''
+publication: '*Nat Protoc*'
+---
