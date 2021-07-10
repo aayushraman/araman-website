@@ -11,6 +11,9 @@ authors:
 - Federico Gaiti
 - Ronan Chaligne
 - et al
+author_notes:
+- Equal contribution
+- Equal contribution
 tags: [dna-methylation, single-cell, tech-dev, gnirke-lab, meissner-lab]
 categories: []
 date: '2021-07-09'
