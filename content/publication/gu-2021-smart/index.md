@@ -14,7 +14,7 @@ authors:
 author_notes:
 - Equal contribution
 - Equal contribution
-tags: [dual-omics, dna-methylation, single-cell, tech-dev, gnirke-lab, meissner-lab]
+tags: [dual-omics, single-cell, dna-methylation, gene-expression, tech-dev, gnirke-lab, meissner-lab]
 categories: []
 date: '2021-07-09'
 lastmod: 2021-01-21T18:32:44-05:00
