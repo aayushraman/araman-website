@@ -40,5 +40,5 @@ publishDate: '2021-01-21T23:32:44.257684Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Nat Protoc*'
+publication: '*Nature Protocols*'
 ---
