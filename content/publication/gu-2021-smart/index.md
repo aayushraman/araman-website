@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Extended-representation bisulfite sequencing of gene regulatory elements in multiplexed samples and single cells
+title: Smart-RRBS for single-cell methylome and transcriptome analysis
 subtitle: ''
 summary: ''
 authors:
@@ -10,7 +10,13 @@ authors:
 - Xiaoxue Wang
 - Federico Gaiti
 - Ronan Chaligne
-- et al
+- Arman W Mohammad 
+- Aleksandra Arczewska 
+- Zachary D Smith
+- Dan A Landau 
+- Martin J Aryee 
+- Alexander Meissner
+- Andreas Gnirke 
 author_notes:
 - Equal contribution
 - Equal contribution
