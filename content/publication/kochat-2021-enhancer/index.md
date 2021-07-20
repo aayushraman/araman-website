@@ -20,11 +20,11 @@ author_notes:
 - "Equal contribution"
 tags: [cancer-epigenetics, MPNST, enhancer, rai-lab, torres-lab]
 categories: []
-date: '2021-06-23'
+date: '2021-07-20'
 lastmod: 2021-01-21T18:32:44-05:00
 featured: false
 draft: false
-url_pdf: ''
+url_pdf: 'https://doi.org/10.1007/s00401-021-02341-z'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -44,5 +44,5 @@ publishDate: '2021-01-21T23:32:44.257684Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Accepted in Acta Neuropathologica*'
+publication: '*Acta Neuropathologica*'
 ---
