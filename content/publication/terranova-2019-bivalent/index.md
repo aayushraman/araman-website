@@ -16,13 +16,17 @@ authors:
 - Sharmistha Sarkar
 - Junna Oba
 - et al
+author_notes:
+- Equal contribution
+- Equal contribution
+- Equal contribution
 tags: [cancer-epigenetics, rai-lab]
 categories: []
-date: '2021-05-23'
+date: '2021-07-20'
 lastmod: 2021-01-21T18:32:44-05:00
 featured: false
 draft: false
-url_pdf: 'https://www.biorxiv.org/content/10.1101/721480v1.abstract'
+url_pdf: 'https://www.cell.com/cell-reports/fulltext/S2211-1247(21)00823-8'
 
 
 # Featured image
@@ -43,5 +47,5 @@ publishDate: '2021-01-21T23:32:44.075918Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Accepted in Cell Reports*'
+publication: '*Cell Reports*'
 ---
