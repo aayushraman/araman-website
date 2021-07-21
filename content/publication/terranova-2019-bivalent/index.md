@@ -26,7 +26,7 @@ date: '2021-07-20'
 lastmod: 2021-01-21T18:32:44-05:00
 featured: false
 draft: false
-url_pdf: 'https://www.cell.com/cell-reports/fulltext/S2211-1247(21)00823-8'
+url_web: 'https://www.cell.com/cell-reports/fulltext/S2211-1247(21)00823-8'
 
 
 # Featured image
