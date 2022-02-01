@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Bivalent and Broad Chromatin Domains Regulate Pro-metastatic Drivers in Melanoma
+title: Reprogramming of bivalent chromatin states in NRAS mutant melanoma suggests PRC2 inhibition as a therapeutic strategy
 subtitle: ''
 summary: ''
 authors:

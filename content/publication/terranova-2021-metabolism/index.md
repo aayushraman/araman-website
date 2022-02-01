@@ -19,7 +19,7 @@ author_notes:
 tags: [cancer-epigenetics, rai-lab, colon, , metabolism]
 categories: []
 date: '2021-11-23'
-lastmod: 2022-01-31T18:32:44-05:00
+lastmod: 2021-01-21T18:32:44-05:00
 featured: false
 draft: false
 url_pdf: 'https://doi.org/10.1016/j.celrep.2021.110044'
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-23T23:32:44.075918Z'
+publishDate: '2021-01-21T23:32:44.075918Z'
 publication_types:
 - '2'
 abstract: ''
