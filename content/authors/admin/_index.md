@@ -11,9 +11,11 @@ role: Statistical Epigenomics Postdoc Associate
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Broad Institute
-  url: https://www.broadinstitute.org/
+  url: https://www.broadinstitute.org/genomeregulation-cellcircuitry-epigenomics
+- name: Dana Farber Cancer Institute
+  url: https://ds.dfci.harvard.edu/
 - name: Massachusetts General Hospital, Harvard Medical School
-  url: https://www.massgeneral.org/pathology/research/aryee-lab
+  url: https://www.massgeneral.org/pathology/research
 
 # Short bio (displayed in user profile at end of posts)
 bio: I develop tools/approaches for data analysis and apply machine learning algorithms to understand biology.
