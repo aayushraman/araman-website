@@ -22,8 +22,8 @@ feature:
   icon_pack: fab
   name: R
 - description: ""
-  icon: open-data
-  icon_pack: fas
+  icon: Perl
+  icon_pack: fab
   name: Perl
 - description: ""
   icon: chart-line
