@@ -41,6 +41,12 @@ interests:
 - Computational Biology
 - Single Cell Analysis
 
+skills:
+- Programming: R, Perl and Python
+- High Performance Computing: Load Sharing Facility (LSF), Condor
+- Operating Systems: Linux, Windows, Mac OS X, Unix
+- Experience in Next Gen-Sequencing Data Analysis: (single cell/bulk) RNA-seq/ChIP-seq/ATAC-seq analysis, NanoString and Microarray analysis
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
