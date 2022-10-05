@@ -22,13 +22,13 @@ feature:
   icon_pack: fab
   name: R
 - description: ""
-  icon: Perl
+  icon: perl
   icon_pack: fab
   name: Perl
 - description: ""
   icon: chart-line
   icon_pack: fas
-  name: Secondary Data Analysis
+  name: Machine Learning and Statistics
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
