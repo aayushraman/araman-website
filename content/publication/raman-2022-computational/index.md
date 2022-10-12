@@ -1,31 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Chromatin State Dynamics Confers Specific Therapeutic Strategies in Enhancer Subtypes of Colorectal Cancer
+title: Computational methods to explore chromatin state dynamics
 subtitle: ''
 summary: ''
 authors:
 - Elias Orouji
-- admin
-- Anand K Singh
-- Alexey Sorokin
-- Emre Arslan
-- Archit K Ghosh
-- Jonathan Schulz
-- Christopher J Terranova
-- Ming Tang
-- et al
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-tags: [cancer-epigenetics, colorectal-cancer, enhancer, rai-lab]
+- ' admin'
+tags: []
 categories: []
-date: '2021-05-31'
-lastmod: 2021-01-21T18:32:44-05:00
+date: '2022-01-01'
+lastmod: 2022-10-11T22:51:22-04:00
 featured: false
 draft: false
-url_pdf: 'http://dx.doi.org/10.1136/gutjnl-2020-322835'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -41,9 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-21T23:32:44.628896Z'
+publishDate: '2022-10-12T02:51:22.357563Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Gut*'
+publication: '*Briefings in Bioinformatics*'
 ---

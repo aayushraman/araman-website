@@ -1,32 +1,28 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Smart-RRBS for single-cell methylome and transcriptome analysis
+title: High Enhancer Activity is an Epigenetic Feature of HPV Negative Atypical Head
+  and Neck Squamous Cell Carcinoma
 subtitle: ''
 summary: ''
 authors:
-- Hongcang Gu
-- admin
-- Xiaoxue Wang
-- Federico Gaiti
-- Ronan Chaligne
-- Arman W Mohammad 
-- Aleksandra Arczewska 
-- Zachary D Smith
-- Dan A Landau 
-- Martin J Aryee 
-- Alexander Meissner
-- Andreas Gnirke 
-author_notes:
-- Equal contribution
-- Equal contribution
-tags: [dual-omics, single-cell, dna-methylation, gene-expression, tech-dev, gnirke-lab, meissner-lab]
+- S Carson Callahan
+- Veena Kochat
+- Zhiyi Liu
+- ' admin'
+- Jonathan Schulz
+- Christopher Terranova
+- Margarita Divenko
+- Archit Ghosh
+- Ming Tang
+- Curtis Pickering
+- ' others'
+tags: []
 categories: []
-date: '2021-07-09'
-lastmod: 2021-01-21T18:32:44-05:00
+date: '2022-01-01'
+lastmod: 2022-10-11T22:51:22-04:00
 featured: false
 draft: false
-url_pdf: 'https://doi.org/10.1038/s41596-021-00571-9'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -42,9 +38,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-21T23:32:44.257684Z'
+publishDate: '2022-10-12T02:51:22.177413Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Nature Protocols*'
+publication: '*Frontiers in cell and developmental biology*'
 ---

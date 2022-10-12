@@ -1,26 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Enhancer reprogramming confers dependence on glycolysis and IGF signaling in
-  KMT2D mutant melanoma
+title: Detecting hidden batch factors through data adaptive adjustment for biological
+  effects
 subtitle: ''
 summary: ''
 authors:
-- Mayinuer Maitituoheti
-- Emily Z Keung
-- Ming Tang
-- Liang Yan
-- Hunain Alam
-- Guangchun Han
-- Anand K Singh
+- Haidong Yi
 - ' admin'
-- Christopher Terranova
-- Sharmistha Sarkar
-- et al
+- Han Zhang
+- Genevera I Allen
+- Zhandong Liu
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2022-10-11T22:51:20-04:00
+date: '2018-01-01'
+lastmod: 2022-10-11T22:51:19-04:00
 featured: false
 draft: false
 
@@ -38,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-12T02:51:20.790289Z'
+publishDate: '2022-10-12T02:51:19.536580Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Cell reports*'
+publication: '*Bioinformatics*'
 ---

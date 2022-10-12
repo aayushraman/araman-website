@@ -1,26 +1,26 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Enhancer reprogramming confers dependence on glycolysis and IGF signaling in
-  KMT2D mutant melanoma
+title: Reprogramming of H3K9bhb at regulatory elements is a key feature of fasting
+  in the small intestine
 subtitle: ''
 summary: ''
 authors:
-- Mayinuer Maitituoheti
-- Emily Z Keung
-- Ming Tang
-- Liang Yan
-- Hunain Alam
-- Guangchun Han
-- Anand K Singh
+- Christopher J Terranova
+- Kristina M Stemler
+- Praveen Barrodia
+- Sabrina L Jeter-Jones
+- Zhongqi Ge
+- Marimar de la Cruz Bonilla
 - ' admin'
-- Christopher Terranova
-- Sharmistha Sarkar
-- et al
+- Chia-Wei Cheng
+- Kendra L Allton
+- Emre Arslan
+- ' others'
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2022-10-11T22:51:20-04:00
+date: '2021-01-01'
+lastmod: 2022-10-11T22:51:22-04:00
 featured: false
 draft: false
 
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-12T02:51:20.790289Z'
+publishDate: '2022-10-12T02:51:21.990364Z'
 publication_types:
 - '2'
 abstract: ''

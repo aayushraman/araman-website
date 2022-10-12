@@ -1,24 +1,24 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Extended-representation bisulfite sequencing of gene regulatory elements in multiplexed samples and single cells
+title: Extended-representation bisulfite sequencing of gene regulatory elements in
+  multiplexed samples and single cells
 subtitle: ''
 summary: ''
 authors:
 - Sarah J Shareef
 - Samantha M Bevill
-- admin
+- ' admin'
 - Martin J Aryee
-- Peter van Galen 
+- Peter van Galen
 - Volker Hovestadt
 - Bradley E Bernstein
-tags: [dna-methylation, epigenetics, single-cell, tech-dev, bernstein-lab]
+tags: []
 categories: []
-date: '2021-05-06'
-lastmod: 2021-01-21T18:32:44-05:00
+date: '2021-01-01'
+lastmod: 2022-10-11T22:51:21-04:00
 featured: false
 draft: false
-url_pdf: 'https://www.nature.com/articles/s41587-021-00910-x'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-21T23:32:44.257684Z'
+publishDate: '2022-10-12T02:51:21.143447Z'
 publication_types:
 - '2'
 abstract: ''
