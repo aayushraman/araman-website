@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Hongcang Gu
-- ' admin'
+- admin
 - Xiaoxue Wang
 - Federico Gaiti
 - Ronan Chaligne
@@ -15,13 +15,18 @@ authors:
 - Zachary D Smith
 - Dan A Landau
 - Martin J Aryee
-- ' others'
-tags: []
+- Alexander Meissner
+- Andreas Gnirke
+author_notes:
+- Equal contribution
+- Equal contribution
+tags: [dual-omics, single-cell, dna-methylation, gene-expression, tech-dev, gnirke-lab, meissner-lab]
 categories: []
-date: '2021-01-01'
+date: '2021-07-09'
 lastmod: 2022-10-11T22:51:21-04:00
 featured: false
 draft: false
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8672372/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -1,18 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A research parasite's perspective on establishing a baseline to avoid errors
-  in secondary analyses.
+title: A research parasite's perspective on establishing a baseline to avoid errors in secondary analyses.
 subtitle: ''
 summary: ''
 authors:
-- ' admin'
+- admin
 tags: []
 categories: []
-date: '2021-01-01'
+date: '2021-03-12'
 lastmod: 2022-10-11T22:51:21-04:00
 featured: false
 draft: false
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7953484/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -32,5 +32,5 @@ publishDate: '2022-10-12T02:51:20.964058Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*GigaScience*'
+publication: '*Gigascience*'
 ---

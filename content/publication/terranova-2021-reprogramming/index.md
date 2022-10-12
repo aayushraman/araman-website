@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Reprogramming of H3K9bhb at regulatory elements is a key feature of fasting
-  in the small intestine
+title: Reprogramming of H3K9bhb at regulatory elements is a key feature of fasting in the small intestine
 subtitle: ''
 summary: ''
 authors:
@@ -12,14 +11,17 @@ authors:
 - Sabrina L Jeter-Jones
 - Zhongqi Ge
 - Marimar de la Cruz Bonilla
-- ' admin'
+- admin
 - Chia-Wei Cheng
 - Kendra L Allton
 - Emre Arslan
-- ' others'
-tags: []
+- et al
+author_notes:
+- Equal contribution
+- Equal contribution
+tags: [cancer-epigenetics, metabolism, rai-lab]
 categories: []
-date: '2021-01-01'
+date: '2021-11-23'
 lastmod: 2022-10-11T22:51:22-04:00
 featured: false
 draft: false
@@ -42,5 +44,5 @@ publishDate: '2022-10-12T02:51:21.990364Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Cell reports*'
+publication: '*Cell Reports*'
 ---

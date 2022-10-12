@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Atypical plant homeodomain of UBR7 functions as an H2BK120Ub ligase and breast
-  tumor suppressor
+title: Atypical plant homeodomain of UBR7 functions as an H2BK120Ub ligase and breast tumor suppressor
 subtitle: ''
 summary: ''
 authors:
@@ -14,15 +13,26 @@ authors:
 - Anirban Dasgupta
 - Dushyant Kumar Srivastava
 - Junsheng Ma
-- ' admin'
+- admin
 - Emily Tarco
-- et al
-tags: []
+- Aysegul Sahin
+- Roland Bassett
+- Fei Yang
+- Coya Tapia
+- Siddhartha Roy
+- Kunal Rai
+- Chandrima Das
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+tags: [cancer-epigenetics, rai-lab]
 categories: []
-date: '2019-01-01'
+date: '2019-03-28'
 lastmod: 2022-10-11T22:51:20-04:00
 featured: false
 draft: false
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6438984/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -1,14 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Forniceal deep brain stimulation induces gene expression and splicing changes
-  that promote neurogenesis and plasticity
+title: Forniceal deep brain stimulation induces gene expression and splicing changes that promote neurogenesis and plasticity
 subtitle: ''
 summary: ''
 authors:
 - Amy E Pohodich
 - Hari Yalamanchili
-- ' admin'
+- admin
 - Ying-Wooi Wan
 - Michael Gundry
 - Shuang Hao
@@ -16,12 +15,13 @@ authors:
 - Jianrong Tang
 - Zhandong Liu
 - Huda Y Zoghbi
-tags: []
+tags: [rett-syndrome, neurological-disorder, liu-lab, meta-research, zoghbi-lab]
 categories: []
-date: '2018-01-01'
+date: '2018-03-23'
 lastmod: 2022-10-11T22:51:19-04:00
 featured: false
 draft: false
+url_pdf: 'https://elifesciences.org/articles/34031'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

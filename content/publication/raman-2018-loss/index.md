@@ -1,19 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Loss of histone acetylation and H3K4 methylation promotes melanocytic malignant
-  transformation
+title: Loss of histone acetylation and H3K4 methylation promotes melanocytic malignant transformation
 subtitle: ''
 summary: ''
 authors:
-- ' admin'
+- admin
 - Kunal Rai
-tags: []
+tags: [commentary-article, cancer-epigenetics, rai-lab]
 categories: []
-date: '2018-01-01'
+date: '2018-02-26'
 lastmod: 2022-10-11T22:51:20-04:00
 featured: false
 draft: false
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6149988/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

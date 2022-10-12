@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: An Integrated Platform for Genome-wide Mapping of Chromatin States Using High-Throughput
-  ChIP-sequencing in Tumor Tissues
+title: An Integrated Platform for Genome-wide Mapping of Chromatin States Using High-Throughput ChIP-sequencing in Tumor Tissues
 subtitle: ''
 summary: ''
 authors:
@@ -10,16 +9,16 @@ authors:
 - Ming Tang
 - Elias Orouji
 - Mayinuer Maitituoheti
-- ' admin'
+- admin
 - Samirkumar Amin
 - Zhiyi Liu
 - Kunal Rai
-tags: []
-categories: []
-date: '2018-01-01'
+tags: [ChIP-seq, rai-lab]
+date: '2018-04-05'
 lastmod: 2022-10-11T22:51:19-04:00
 featured: false
 draft: false
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5933412/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

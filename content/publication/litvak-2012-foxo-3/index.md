@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A FOXO3--IRF7 gene regulatory circuit limits inflammatory sequelae of antiviral
-  responses
+title: A FOXO3--IRF7 gene regulatory circuit limits inflammatory sequelae of antiviral responses
 subtitle: ''
 summary: ''
 authors:
@@ -10,18 +9,19 @@ authors:
 - Alexander V Ratushny
 - Aaron E Lampano
 - Frank Schmitz
-- Albert C Huang
-- ' admin'
+- Albert Huang
+- admin
 - Alistair G Rust
 - Andreas Bergthaler
 - John D Aitchison
 - Alan Aderem
-tags: []
+tags: [immunology, regulatory-networks]
 categories: []
-date: '2012-01-01'
+date: '2012-09-16'
 lastmod: 2022-10-11T22:51:18-04:00
 featured: false
 draft: false
+url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3556990/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

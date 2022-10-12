@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Enhancer reprogramming confers dependence on glycolysis and IGF signaling in
-  KMT2D mutant melanoma
+title: Enhancer reprogramming confers dependence on glycolysis and IGF signaling in KMT2D mutant melanoma
 subtitle: ''
 summary: ''
 authors:
@@ -13,16 +12,17 @@ authors:
 - Hunain Alam
 - Guangchun Han
 - Anand K Singh
-- ' admin'
+- admin
 - Christopher Terranova
 - Sharmistha Sarkar
 - et al
-tags: []
+tags: [cancer-epigenetics, enhancer, epigenetics, rai-lab]
 categories: []
-date: '2020-01-01'
+date: '2020-10-20'
 lastmod: 2022-10-11T22:51:20-04:00
 featured: false
 draft: false
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7649750/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

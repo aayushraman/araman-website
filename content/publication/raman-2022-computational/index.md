@@ -6,13 +6,14 @@ subtitle: ''
 summary: ''
 authors:
 - Elias Orouji
-- ' admin'
-tags: []
+- admin
+tags: [chromatin-state, epigenetics]
 categories: []
-date: '2022-01-01'
+date: '2022-10-07'
 lastmod: 2022-10-11T22:51:22-04:00
 featured: false
 draft: false
+url_pdf: 'https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac439/6751148?login=false'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

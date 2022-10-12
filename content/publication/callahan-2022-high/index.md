@@ -1,28 +1,29 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: High Enhancer Activity is an Epigenetic Feature of HPV Negative Atypical Head
-  and Neck Squamous Cell Carcinoma
+title: High Enhancer Activity is an Epigenetic Feature of HPV Negative Atypical Head and Neck Squamous Cell Carcinoma
 subtitle: ''
 summary: ''
 authors:
 - S Carson Callahan
 - Veena Kochat
 - Zhiyi Liu
-- ' admin'
+- admin
 - Jonathan Schulz
 - Christopher Terranova
 - Margarita Divenko
 - Archit Ghosh
 - Ming Tang
 - Curtis Pickering
-- ' others'
-tags: []
+- Jeffrey Myers 
+- Kunal Rai
+tags: [cancer-epigenetics, rai-lab]
 categories: []
-date: '2022-01-01'
+date: '2022-07-19'
 lastmod: 2022-10-11T22:51:22-04:00
 featured: false
 draft: false
+url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9343809/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -42,5 +43,5 @@ publishDate: '2022-10-12T02:51:22.177413Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Frontiers in cell and developmental biology*'
+publication: '*Frontiers in Cell and Developmental Biology*'
 ---

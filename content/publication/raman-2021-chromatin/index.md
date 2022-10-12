@@ -1,13 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Chromatin State Dynamics Confers Specific Therapeutic Strategies in Enhancer
-  Subtypes of Colorectal Cancer
+title: Chromatin State Dynamics Confers Specific Therapeutic Strategies in Enhancer Subtypes of Colorectal Cancer
 subtitle: ''
 summary: ''
 authors:
 - Elias Orouji
-- ' admin'
+- admin
 - Anand K Singh
 - Alexey Sorokin
 - Emre Arslan
@@ -17,12 +16,18 @@ authors:
 - Ming Tang
 - Mayinuer Maitituoheti
 - et al
-tags: []
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+tags: [cancer-epigenetics, colorectal-cancer, chromatin-state, enhancer, epigenetics, rai-lab]
 categories: []
-date: '2021-01-01'
+date: '2021-05-31'
 lastmod: 2022-10-11T22:51:21-04:00
 featured: false
 draft: false
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8745382/'
+url_code: 'https://doi.org/10.5281/zenodo.819971'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -1,15 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Accumulation of long-chain fatty acids in the tumor microenvironment drives
-  dysfunction in intrapancreatic CD8+ T cells
+title: Accumulation of long-chain fatty acids in the tumor microenvironment drives dysfunction in intrapancreatic CD8+ T cells
 subtitle: ''
 summary: ''
 authors:
 - Teresa Manzo
 - Boone M Prentice
 - Kristin G Anderson
-- ' admin'
+- admin
 - Aislyn Schalck
 - Gabriela S Codreanu
 - Carina B Nava Lauson
@@ -17,12 +16,13 @@ authors:
 - Andrea Raimondi
 - Marissa A Jones
 - et al
-tags: []
+tags: [immunology, tumor-microenvironment, cancer, rai-lab]
 categories: []
-date: '2020-01-01'
+date: '2020-06-03'
 lastmod: 2022-10-11T22:51:20-04:00
 featured: false
 draft: false
+url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7398173/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

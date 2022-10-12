@@ -1,24 +1,24 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Extended-representation bisulfite sequencing of gene regulatory elements in
-  multiplexed samples and single cells
+title: Extended-representation bisulfite sequencing of gene regulatory elements in multiplexed samples and single cells
 subtitle: ''
 summary: ''
 authors:
 - Sarah J Shareef
 - Samantha M Bevill
-- ' admin'
+- admin
 - Martin J Aryee
 - Peter van Galen
 - Volker Hovestadt
 - Bradley E Bernstein
-tags: []
+tags: [dna-methylation, epigenetics, single-cell, tech-dev, bernstein-lab]
 categories: []
-date: '2021-01-01'
+date: '2021-05-06'
 lastmod: 2022-10-11T22:51:21-04:00
 featured: false
 draft: false
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8434949/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

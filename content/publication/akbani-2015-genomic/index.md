@@ -6,12 +6,13 @@ subtitle: ''
 summary: ''
 authors:
 - The Cancer Genome Atlas Consortium
-tags: []
+tags: [TCGA, cancer, lynda-chin-lab]
 categories: []
-date: '2015-01-01'
+date: '2015-06-18'
 lastmod: 2022-10-11T22:51:19-04:00
 featured: false
 draft: false
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4580370/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

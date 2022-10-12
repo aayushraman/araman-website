@@ -1,28 +1,36 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Nr2f1 heterozygous knockout mice recapitulate neurological phenotypes of Bosch-Boonstra-Schaaf
-  optic atrophy syndrome and show impaired hippocampal synaptic plasticity
+title: Nr2f1 heterozygous knockout mice recapitulate neurological phenotypes of Bosch-Boonstra-Schaaf optic atrophy syndrome and show impaired hippocampal synaptic plasticity
 subtitle: ''
 summary: ''
 authors:
 - Chun-An Chen
 - Wei Wang
-- Steen E Pedersen
-- ' admin'
-- Michelle L Seymour
-- Fernanda R Ruiz
+- Steen Pedersen
+- admin
+- Michelle Seymour
+- Fernanda Ruiz
 - Anping Xia
 - Meike E van der Heijden
 - Li Wang
 - Jiani Yin
-- et al
-tags: []
+- Joanna Lopez
+- Megan Rech
+- Richard Lewis 
+- Samuel Wu
+- Zhandong Liu 
+- Fred Pereira 
+- Robia Pautler 
+- Huda Zoghbi 
+- Christian P Schaaf
+tags: [neurological-disorder, Bosch-Boonstra-Schaaf-syndrome, liu-lab, zoghbi-lab]
 categories: []
-date: '2020-01-01'
+date: '2019-10-10'
 lastmod: 2022-10-11T22:51:20-04:00
 featured: false
 draft: false
+url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7104670/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

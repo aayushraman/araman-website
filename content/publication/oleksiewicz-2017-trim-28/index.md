@@ -1,14 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: TRIM28 and Interacting KRAB-ZNFs Control Self-Renewal of Human Pluripotent
-  Stem Cells through Epigenetic Repression of Pro-differentiation Genes
+title: TRIM28 and Interacting KRAB-ZNFs Control Self-Renewal of Human Pluripotent Stem Cells through Epigenetic Repression of Pro-differentiation Genes
 subtitle: ''
 summary: ''
 authors:
 - Urszula Oleksiewicz
 - Marta Gladych
-- ' admin'
+- admin
 - Holger Heyn
 - Elisabetta Mereu
 - Paula Chlebanowska
@@ -16,12 +15,17 @@ authors:
 - Barbara Sozanska
 - Neha Samant
 - et al
-tags: []
+author_notes:
+- Equal contribution
+- Equal contribution
+- Equal contribution
+tags: [stem-cells, epigenetics, repetitive-elements, iPSCs, differentiation, KRAB-ZNFs, rai-lab]
 categories: []
-date: '2017-01-01'
+date: '2017-11-30'
 lastmod: 2022-10-11T22:51:19-04:00
 featured: false
 draft: false
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5785758/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

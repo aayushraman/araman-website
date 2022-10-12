@@ -1,13 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Enhancer reprogramming in PRC2-deficient malignant peripheral nerve sheath
-  tumors induces a targetable de-differentiated state
+title: Enhancer reprogramming in PRC2-deficient malignant peripheral nerve sheath tumors induces a targetable de-differentiated state
 subtitle: ''
 summary: ''
 authors:
 - Veena Kochat
-- ' admin'
+- admin
 - Sharon M Landers
 - Ming Tang
 - Jonathan Schulz
@@ -16,13 +15,18 @@ authors:
 - Angela D Bhalla
 - Hannah C Beird
 - Chia-Chin Wu
-- ' others'
-tags: []
+- et al
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+tags: [cancer-epigenetics, chromatin-state, enhancer, epigenetics, MPNST, rai-lab, torres-lab]
 categories: []
 date: '2021-01-01'
 lastmod: 2022-10-11T22:51:21-04:00
 featured: false
 draft: false
+url_pdf: 'https://doi.org/10.1007/s00401-021-02341-z'
+url_code: 'https://github.com/aayushraman/mpnst'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -42,5 +46,5 @@ publishDate: '2022-10-12T02:51:21.651646Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Acta neuropathologica*'
+publication: '*Acta Neuropathologica*'
 ---

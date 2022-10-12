@@ -1,22 +1,26 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Detecting hidden batch factors through data adaptive adjustment for biological
-  effects
+title: Detecting hidden batch factors through data adaptive adjustment for biological effects
 subtitle: ''
 summary: ''
 authors:
 - Haidong Yi
-- ' admin'
+- admin
 - Han Zhang
 - Genevera I Allen
 - Zhandong Liu
-tags: []
+author_notes:
+- Equal contribution
+- Equal contribution
+tags: [batch-effects, research-parasite, meta-research, liu-lab]
 categories: []
-date: '2018-01-01'
+date: '2017-10-09'
 lastmod: 2022-10-11T22:51:19-04:00
 featured: false
 draft: false
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6454417/'
+url_code: 'https://github.com/aayushraman/DASC'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
