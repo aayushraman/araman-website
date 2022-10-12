@@ -1,25 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Detecting hidden batch factors through data adaptive adjustment for biological effects
+title: A research parasite's perspective on establishing a baseline to avoid errors in secondary analyses.
 subtitle: ''
 summary: ''
 authors:
-- Haidong Yi
 - admin
-- Han Zhang
-- Genevera I Allen
-- Zhandong Liu
-author_notes:
-- Equal contribution
-- Equal contribution
-tags: [batch-effects, research-parasite, meta-research, liu-lab]
+tags: []
 categories: []
-date: '2017-01-01'
-lastmod: 2021-01-21T18:32:42-05:00
+date: '2021-03-12'
+lastmod: 2022-10-11T22:51:21-04:00
 featured: false
 draft: false
-url_pdf: 'https://doi.org/10.1093/bioinformatics/btx635'
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7953484/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -35,9 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-21T23:32:42.470542Z'
+publishDate: '2022-10-12T02:51:20.964058Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Bioinformatics*'
+publication: '*Gigascience*'
 ---

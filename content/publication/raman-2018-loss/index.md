@@ -9,8 +9,8 @@ authors:
 - Kunal Rai
 tags: [commentary-article, cancer-epigenetics, rai-lab]
 categories: []
-date: '2018-01-01'
-lastmod: 2021-01-21T18:32:43-05:00
+date: '2018-02-26'
+lastmod: 2022-10-11T22:51:20-04:00
 featured: false
 draft: false
 url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6149988/'
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-21T23:32:43.101231Z'
+publishDate: '2022-10-12T02:51:20.072839Z'
 publication_types:
 - '2'
 abstract: ''

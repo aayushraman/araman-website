@@ -8,7 +8,7 @@ authors:
 - Teresa Manzo
 - Boone M Prentice
 - Kristin G Anderson
-- ' admin'
+- admin
 - Aislyn Schalck
 - Gabriela S Codreanu
 - Carina B Nava Lauson
@@ -16,13 +16,13 @@ authors:
 - Andrea Raimondi
 - Marissa A Jones
 - et al
-tags: [immunology, cancer-epigenetics]
+tags: [immunology, tumor-microenvironment, cancer, rai-lab]
 categories: []
-date: '2020-01-01'
-lastmod: 2021-01-21T18:32:44-05:00
+date: '2020-06-03'
+lastmod: 2022-10-11T22:51:20-04:00
 featured: false
 draft: false
-url_pdf: 'https://rupress.org/jem/article-abstract/217/8/e20191920/151833/Accumulation-of-long-chain-fatty-acids-in-the?redirectedFrom=fulltext'
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7398173/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-21T23:32:44.433272Z'
+publishDate: '2022-10-12T02:51:20.619295Z'
 publication_types:
 - '2'
 abstract: ''

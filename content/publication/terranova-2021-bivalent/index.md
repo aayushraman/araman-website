@@ -1,28 +1,32 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Reprogramming of H3K9bhb at regulatory elements is a key feature of fasting in the small intestine
+title: Reprogramming of bivalent chromatin states in NRAS mutant melanoma suggests PRC2 inhibition as a therapeutic strategy
 subtitle: ''
 summary: ''
 authors:
-- Christopher Terranova
-- Kristina M Stemler
-- Praveen Barrodia
-- Sabrina L Jeter-Jones
-- Zhongqi Ge
-- Marimar de la Cruz Bonilla
+- Christopher J Terranova
+- Ming Tang
+- Mayinuer Maitituoheti
 - admin
+- Archit K Ghosh
+- Jonathan Schulz
+- Samir B Amin
+- Elias Orouji
+- Katarzyna Tomczak
+- Sharmistha Sarkar
 - et al
 author_notes:
 - Equal contribution
 - Equal contribution
-tags: [cancer-epigenetics, rai-lab, colon, metabolism]
+- Equal contribution
+tags: [cancer-epigenetics, chromatin-state, epigenetics, rai-lab]
 categories: []
-date: '2021-11-23'
-lastmod: 2021-01-21T18:32:44-05:00
+date: '2021-07-20'
+lastmod: 2022-10-11T22:51:21-04:00
 featured: false
 draft: false
-url_pdf: 'https://doi.org/10.1016/j.celrep.2021.110044'
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8369408/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -38,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-21T23:32:44.257684Z'
+publishDate: '2022-10-12T02:51:21.818811Z'
 publication_types:
 - '2'
 abstract: ''

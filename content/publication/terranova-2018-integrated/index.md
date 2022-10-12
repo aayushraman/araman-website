@@ -14,12 +14,11 @@ authors:
 - Zhiyi Liu
 - Kunal Rai
 tags: [ChIP-seq, rai-lab]
-categories: []
-date: '2018-01-01'
-lastmod: 2021-01-21T18:32:43-05:00
+date: '2018-04-05'
+lastmod: 2022-10-11T22:51:19-04:00
 featured: false
 draft: false
-url_pdf: 'https://www.jove.com/t/56972/an-integrated-platform-for-genome-wide-mapping-chromatin-states-using'
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5933412/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -35,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-21T23:32:42.913783Z'
+publishDate: '2022-10-12T02:51:19.718283Z'
 publication_types:
 - '2'
 abstract: ''

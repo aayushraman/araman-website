@@ -1,31 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: TRIM28 and Interacting KRAB-ZNFs Control Self-Renewal of Human Pluripotent Stem Cells through Epigenetic Repression of Pro-differentiation Genes
+title: Computational methods to explore chromatin state dynamics
 subtitle: ''
 summary: ''
 authors:
-- Urszula Oleksiewicz
-- Marta Gladych
+- Elias Orouji
 - admin
-- Holger Heyn
-- Elisabetta Mereu
-- Paula Chlebanowska
-- Anastazja Andrzejewska
-- Barbara Sozanska
-- Neha Samant
-- et al
-author_notes:
-- Equal contribution
-- Equal contribution
-- Equal contribution
-tags: [stem-cells, epigenetics, repetitive-elements, iPSCs, differentiation, KRAB-ZNFs, rai-lab]
+tags: [chromatin-state, epigenetics]
 categories: []
-date: '2017-11-30'
-lastmod: 2022-10-11T22:51:19-04:00
+date: '2022-10-07'
+lastmod: 2022-10-11T22:51:22-04:00
 featured: false
 draft: false
-url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5785758/'
+url_pdf: 'https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac439/6751148?login=false'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -41,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-12T02:51:19.196313Z'
+publishDate: '2022-10-12T02:51:22.357563Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Stem cell reports*'
+publication: '*Briefings in Bioinformatics*'
 ---

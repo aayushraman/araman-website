@@ -6,22 +6,22 @@ subtitle: ''
 summary: ''
 authors:
 - Vladimir Litvak
-- Alexander Ratushny
-- Aaron Lampano
+- Alexander V Ratushny
+- Aaron E Lampano
 - Frank Schmitz
 - Albert Huang
 - admin
-- Alistair Rust
+- Alistair G Rust
 - Andreas Bergthaler
-- John Aitchison
+- John D Aitchison
 - Alan Aderem
 tags: [immunology, regulatory-networks]
 categories: []
-date: '2012-01-01'
-lastmod: 2021-01-21T18:32:42-05:00
+date: '2012-09-16'
+lastmod: 2022-10-11T22:51:18-04:00
 featured: false
 draft: false
-url_pdf: 'https://www.nature.com/articles/nature11428'
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3556990/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-21T23:32:41.932845Z'
+publishDate: '2022-10-12T02:51:18.700701Z'
 publication_types:
 - '2'
 abstract: ''

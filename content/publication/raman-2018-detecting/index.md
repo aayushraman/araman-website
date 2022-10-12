@@ -1,32 +1,26 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Smart-RRBS for single-cell methylome and transcriptome analysis
+title: Detecting hidden batch factors through data adaptive adjustment for biological effects
 subtitle: ''
 summary: ''
 authors:
-- Hongcang Gu
+- Haidong Yi
 - admin
-- Xiaoxue Wang
-- Federico Gaiti
-- Ronan Chaligne
-- Arman W Mohammad 
-- Aleksandra Arczewska 
-- Zachary D Smith
-- Dan A Landau 
-- Martin J Aryee 
-- Alexander Meissner
-- Andreas Gnirke 
+- Han Zhang
+- Genevera I Allen
+- Zhandong Liu
 author_notes:
 - Equal contribution
 - Equal contribution
-tags: [dual-omics, single-cell, dna-methylation, gene-expression, tech-dev, gnirke-lab, meissner-lab]
+tags: [batch-effects, research-parasite, meta-research, liu-lab]
 categories: []
-date: '2021-07-09'
-lastmod: 2021-01-21T18:32:44-05:00
+date: '2017-10-09'
+lastmod: 2022-10-11T22:51:19-04:00
 featured: false
 draft: false
-url_pdf: 'https://doi.org/10.1038/s41596-021-00571-9'
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6454417/'
+url_code: 'https://github.com/aayushraman/DASC'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -42,9 +36,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-21T23:32:44.257684Z'
+publishDate: '2022-10-12T02:51:19.536580Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Nature Protocols*'
+publication: '*Bioinformatics*'
 ---
