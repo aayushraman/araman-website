@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - admin
-tags: []
+tags: [commentary-article, research-parasite, long-gene-bias, meta-research]
 categories: []
 date: '2021-03-12'
 lastmod: 2022-10-11T22:51:21-04:00
