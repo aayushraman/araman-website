@@ -1,31 +1,32 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Reprogramming of bivalent chromatin states in NRAS mutant melanoma suggests PRC2 inhibition as a therapeutic strategy
+title: Chromatin State Dynamics Confers Specific Therapeutic Strategies in Enhancer Subtypes of Colorectal Cancer
 subtitle: ''
 summary: ''
 authors:
-- Christopher J Terranova
-- Ming Tang
-- Mayinuer Maitituoheti
+- Elias Orouji
 - admin
+- Anand K Singh
+- Alexey Sorokin
+- Emre Arslan
 - Archit K Ghosh
 - Jonathan Schulz
-- Samir B Amin
-- Elias Orouji
-- Katarzyna Tomczak
-- Sharmistha Sarkar
+- Christopher J Terranova
+- Ming Tang
 - et al
 author_notes:
-- Equal contribution
-- Equal contribution
-- Equal contribution
-tags: [cancer-epigenetics, chromatin-state, epigenetics, rai-lab]
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+tags: [cancer-epigenetics, colorectal-cancer, enhancer, rai-lab]
 categories: []
-date: '2021-07-20'
-lastmod: 2022-10-11T22:51:21-04:00
+date: '2021-05-31'
+lastmod: 2021-01-21T18:32:44-05:00
 featured: false
 draft: false
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8745382/'
+url_code: 'https://doi.org/10.5281/zenodo.819971'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -41,9 +42,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-12T02:51:21.818811Z'
+publishDate: '2021-01-21T23:32:44.628896Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Cell Reports*'
+publication: '*Gut*'
 ---

@@ -15,24 +15,18 @@ authors:
 - Junsheng Ma
 - admin
 - Emily Tarco
-- Aysegul Sahin
-- Roland Bassett
-- Fei Yang
-- Coya Tapia
-- Siddhartha Roy
-- Kunal Rai
-- Chandrima Das
+- et al
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
 tags: [cancer-epigenetics, rai-lab]
 categories: []
-date: '2019-03-28'
-lastmod: 2022-10-11T22:51:20-04:00
+date: '2019-01-01'
+lastmod: 2021-01-21T18:32:44-05:00
 featured: false
 draft: false
-url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6438984/'
+url_pdf: 'https://www.nature.com/articles/s41467-019-08986-5'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -48,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-12T02:51:20.244235Z'
+publishDate: '2021-01-21T23:32:43.888641Z'
 publication_types:
 - '2'
 abstract: ''

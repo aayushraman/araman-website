@@ -1,30 +1,32 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Reprogramming of H3K9bhb at regulatory elements is a key feature of fasting in the small intestine
+title: Smart-RRBS for single-cell methylome and transcriptome analysis
 subtitle: ''
 summary: ''
 authors:
-- Christopher J Terranova
-- Kristina M Stemler
-- Praveen Barrodia
-- Sabrina L Jeter-Jones
-- Zhongqi Ge
-- Marimar de la Cruz Bonilla
+- Hongcang Gu
 - admin
-- Chia-Wei Cheng
-- Kendra L Allton
-- Emre Arslan
-- et al
+- Xiaoxue Wang
+- Federico Gaiti
+- Ronan Chaligne
+- Arman W Mohammad 
+- Aleksandra Arczewska 
+- Zachary D Smith
+- Dan A Landau 
+- Martin J Aryee 
+- Alexander Meissner
+- Andreas Gnirke 
 author_notes:
 - Equal contribution
 - Equal contribution
-tags: [cancer-epigenetics, metabolism, rai-lab]
+tags: [dual-omics, single-cell, dna-methylation, gene-expression, tech-dev, gnirke-lab, meissner-lab]
 categories: []
-date: '2021-11-23'
-lastmod: 2022-10-11T22:51:22-04:00
+date: '2021-07-09'
+lastmod: 2021-01-21T18:32:44-05:00
 featured: false
 draft: false
+url_pdf: 'https://doi.org/10.1038/s41596-021-00571-9'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -40,9 +42,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-12T02:51:21.990364Z'
+publishDate: '2021-01-21T23:32:44.257684Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Cell Reports*'
+publication: '*Nature Protocols*'
 ---

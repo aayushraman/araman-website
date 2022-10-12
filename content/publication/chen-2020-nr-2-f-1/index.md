@@ -7,30 +7,22 @@ summary: ''
 authors:
 - Chun-An Chen
 - Wei Wang
-- Steen Pedersen
+- Steen E Pedersen
 - admin
-- Michelle Seymour
-- Fernanda Ruiz
+- Michelle L Seymour
+- Fernanda R Ruiz
 - Anping Xia
 - Meike E van der Heijden
 - Li Wang
 - Jiani Yin
-- Joanna Lopez
-- Megan Rech
-- Richard Lewis 
-- Samuel Wu
-- Zhandong Liu 
-- Fred Pereira 
-- Robia Pautler 
-- Huda Zoghbi 
-- Christian P Schaaf
+- et al
 tags: [neurological-disorder, Bosch-Boonstra-Schaaf-syndrome, liu-lab, zoghbi-lab]
 categories: []
-date: '2019-10-10'
-lastmod: 2022-10-11T22:51:20-04:00
+date: '2020-01-01'
+lastmod: 2021-01-21T18:32:44-05:00
 featured: false
 draft: false
-url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7104670/'
+url_pdf: 'https://academic.oup.com/hmg/article-abstract/29/5/705/5584445'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -46,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-12T02:51:20.440449Z'
+publishDate: '2021-01-21T23:32:44.257684Z'
 publication_types:
 - '2'
 abstract: ''

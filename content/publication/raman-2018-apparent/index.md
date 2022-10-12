@@ -1,7 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Apparent bias toward long gene misregulation in MeCP2 syndromes disappears after controlling for baseline variations
+title: Apparent bias toward long gene misregulation in MeCP2 syndromes disappears
+  after controlling for baseline variations
 subtitle: ''
 summary: ''
 authors:
@@ -17,11 +18,11 @@ author_notes:
 - Equal contribution
 tags: [rett-syndrome, long-gene-bias, research-parasite, neurological-disorder, meta-research, batch-effects, liu-lab, zoghbi-lab]
 categories: []
-date: '2018-08-13'
-lastmod: 2022-10-11T22:51:20-04:00
+date: '2018-01-01'
+lastmod: 2021-01-21T18:32:43-05:00
 featured: false
 draft: false
-url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6089998/'
+url_pdf: 'https://www.nature.com/articles/s41467-018-05627-1'
 url_code: 'https://doi.org/10.5281/zenodo.1226607'
 
 # Featured image
@@ -38,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-12T02:51:19.890765Z'
+publishDate: '2021-01-21T23:32:43.471741Z'
 publication_types:
 - '2'
 abstract: ''

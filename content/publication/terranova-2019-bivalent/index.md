@@ -1,26 +1,32 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Detecting hidden batch factors through data adaptive adjustment for biological effects
+title: Reprogramming of bivalent chromatin states in NRAS mutant melanoma suggests PRC2 inhibition as a therapeutic strategy
 subtitle: ''
 summary: ''
 authors:
-- Haidong Yi
+- Christopher Terranova
+- Ming Tang
+- Mayinuer Maitituoheti
 - admin
-- Han Zhang
-- Genevera I Allen
-- Zhandong Liu
+- Jonathan Schulz
+- Samir Amin
+- Elias Orouji
+- Katarzyna Tomczak
+- Sharmistha Sarkar
+- Junna Oba
+- et al
 author_notes:
 - Equal contribution
 - Equal contribution
-tags: [batch-effects, research-parasite, meta-research, liu-lab]
+- Equal contribution
+tags: [cancer-epigenetics, rai-lab]
 categories: []
-date: '2017-10-09'
-lastmod: 2022-10-11T22:51:19-04:00
+date: '2021-07-20'
+lastmod: 2021-01-21T18:32:44-05:00
 featured: false
 draft: false
-url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6454417/'
-url_code: 'https://github.com/aayushraman/DASC'
+url_pdf: 'https://www.cell.com/cell-reports/fulltext/S2211-1247(21)00823-8'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -36,9 +42,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-12T02:51:19.536580Z'
+publishDate: '2021-01-21T23:32:44.257684Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Bioinformatics*'
+publication: '*Cell Reports*'
 ---

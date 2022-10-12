@@ -1,32 +1,30 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Smart-RRBS for single-cell methylome and transcriptome analysis
+title: Enhancer reprogramming in PRC2-deficient malignant peripheral nerve sheath tumors induces a targetable de-differentiated state
 subtitle: ''
 summary: ''
 authors:
-- Hongcang Gu
+- Veena Kochat
 - admin
-- Xiaoxue Wang
-- Federico Gaiti
-- Ronan Chaligne
-- Arman W Mohammad
-- Aleksandra Arczewska
-- Zachary D Smith
-- Dan A Landau
-- Martin J Aryee
-- Alexander Meissner
-- Andreas Gnirke
+- Sharon Landers
+- Ming Tang
+- Jonathan Schulz
+- Christopher Terranova
+- Jace Landry
+- Angela Bhalla
+- Hannah Beird
+- et al
 author_notes:
-- Equal contribution
-- Equal contribution
-tags: [dual-omics, single-cell, dna-methylation, gene-expression, tech-dev, gnirke-lab, meissner-lab]
+- "Equal contribution"
+- "Equal contribution"
+tags: [cancer-epigenetics, MPNST, enhancer, rai-lab, torres-lab]
 categories: []
-date: '2021-07-09'
-lastmod: 2022-10-11T22:51:21-04:00
+date: '2021-07-20'
+lastmod: 2021-01-21T18:32:44-05:00
 featured: false
 draft: false
-url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8672372/'
+url_pdf: 'https://doi.org/10.1007/s00401-021-02341-z'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -42,9 +40,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-12T02:51:21.478522Z'
+publishDate: '2021-01-21T23:32:44.257684Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Nature Protocols*'
+publication: '*Acta Neuropathologica*'
 ---

@@ -6,13 +6,13 @@ subtitle: ''
 summary: ''
 authors:
 - The Cancer Genome Atlas Consortium
-tags: [TCGA, cancer, lynda-chin-lab]
+tags: [TCGA, lynda-chin-lab]
 categories: []
-date: '2015-06-18'
-lastmod: 2022-10-11T22:51:19-04:00
+date: '2015-01-01'
+lastmod: 2021-01-21T18:32:42-05:00
 featured: false
 draft: false
-url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4580370/'
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0092867415006340'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-12T02:51:18.874449Z'
+publishDate: '2021-01-21T23:32:42.308584Z'
 publication_types:
 - '2'
 abstract: ''
