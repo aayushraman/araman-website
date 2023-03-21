@@ -1,28 +1,31 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Accumulation of long-chain fatty acids in the tumor microenvironment drives dysfunction in intrapancreatic CD8+ T cells
+title: Linoleic acid potentiates CD8+ T cell metabolic fitness and antitumor immunity
 subtitle: ''
 summary: ''
 authors:
-- Teresa Manzo
-- Boone M Prentice
-- Kristin G Anderson
-- admin
-- Aislyn Schalck
-- Gabriela S Codreanu
-- Carina B Nava Lauson
+- Carina Lauson
 - Silvia Tiberti
-- Andrea Raimondi
-- Marissa A Jones
+- Paola Corsetto
+- Federica Conte
+- Punit Tyagi
+- Markus Machwirth
+- Stefan Ebert
+- Alessia Loffreda
+- Lukas Scheller
+- Dalia Sheta
+- Zeinab Mokhtari
+- Timo Peters
+- admin
 - et al
-tags: [immunology, metabolism, tumor-microenvironment, cancer, rai-lab, manzo-lab]
+tags: [immunology, metabolism, tumor-microenvironment, cancer, manzo-lab]
 categories: []
-date: '2020-06-03'
-lastmod: 2022-10-11T22:51:20-04:00
+date: '2023-03-09'
+lastmod: 2023-03-09T12:39:12-04:00
 featured: false
 draft: false
-url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7398173/'
+url_pdf: 'https://doi.org/10.1016/j.cmet.2023.02.013'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -38,9 +41,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-12T02:51:20.619295Z'
+publishDate: '2023-03-19T02:51:22.357563Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Journal of Experimental Medicine*'
+publication: '*Cell Metabolism*'
 ---
