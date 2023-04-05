@@ -86,4 +86,4 @@ I earned my Ph.D. in Quantitative and Computational Biosciences at the [Baylor C
 
 I completed my MS in Computational Biology from [Carnegie Mellon](https://www.cmu.edu/ms-compbio/) and did my undergrad at [Vellore Institute of Technology](https://vit.ac.in/), where I earned B.Tech in Bioinformatics.
 
-{{< icon name="download" pack="fas" >}}{{< staticref "media/CV_AR_Mar23.pdf" "newtab" >}}Academic CV{{< /staticref >}} and    {{< icon name="download" pack="fas" >}}{{< staticref "media/Resume_AR_Mar23.pdf" "newtab" >}}Resume (Two Page){{< /staticref >}}.
+**I am currently on the job market**. {{< icon name="download" pack="fas" >}}{{< staticref "media/CV_AR_Mar23.pdf" "newtab" >}}Academic CV{{< /staticref >}} and    {{< icon name="download" pack="fas" >}}{{< staticref "media/Resume_AR_Mar23.pdf" "newtab" >}}Resume (Two Page){{< /staticref >}}.
