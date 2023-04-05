@@ -88,7 +88,7 @@ I completed my MS in Computational Biology from [Carnegie Mellon](https://www.cm
 
 <span style="color:red">**I am currently on the job market!**</span>
 
-{{< icon name="download" pack="fas" >}}{{< staticref "media/CV_AR_Mar23.pdf" "newtab" >}}Academic CV{{< /staticref >}}
+{{< icon name="download" pack="fas" >}}{{< staticref "media/CV_website.pdf" "newtab" >}}Academic CV{{< /staticref >}}
 
 {{< icon name="download" pack="fas" >}}{{< staticref "media/Resume_AR_Mar23.pdf" "newtab" >}}Resume (Two Page){{< /staticref >}}.
 
