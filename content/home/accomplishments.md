@@ -34,7 +34,7 @@ item:
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
-  date_start: "2018-03-01"
+  date_start: ""
   description: Formulated informed blockchain models, hypotheses, and use cases.
   organization: edX
   organization_url: https://www.edx.org
