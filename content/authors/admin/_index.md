@@ -10,12 +10,12 @@ role: Statistical Epigenomics Postdoc Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Broad Institute
-  url: https://www.broadinstitute.org/genomeregulation-cellcircuitry-epigenomics
-- name: Dana Farber Cancer Institute
-  url: https://ds.dfci.harvard.edu/
-- name: Massachusetts General Hospital, Harvard Medical School
-  url: https://www.massgeneral.org/pathology/research
+- name: National Cancer Institute, NIH
+  url: https://ccr.cancer.gov/staff-directory/ayush-raman
+#- name: Dana Farber Cancer Institute
+#  url: https://ds.dfci.harvard.edu/
+#- name: Massachusetts General Hospital, Harvard Medical School
+#  url: https://www.massgeneral.org/pathology/research
 
 # Short bio (displayed in user profile at end of posts)
 bio: I develop tools/approaches for data analysis and apply machine learning algorithms to understand biology.
@@ -23,6 +23,9 @@ bio: I develop tools/approaches for data analysis and apply machine learning alg
 # Education to show in About widget
 education:
   courses:
+  - course: Postdoc in Computational Epigenomics
+    institution: Broad Institute of MIT and Harvard, DFCI/MGH/HMS
+    year: 2023
   - course: PhD in Quantitative and Computational Biosciences
     institution: Baylor College of Medicine
     year: 2018
@@ -80,12 +83,15 @@ email: ""
 highlight_name: true
 ---
 
-I am a Postdoc Associate at [Broad Institute of MIT and Harvard](https://broadinstitute.org/) and affiliated with [Dana Farber Cancer Institute](https://ds.dfci.harvard.edu/) & [MGH, Harvard Medical School](https://www.massgeneral.org/pathology/research). I am working with the labs of [Martin Aryee](https://aryee.mgh.harvard.edu/) and [Alex Meissner](https://hscrb.harvard.edu/people/alexander-meissner/) to understand the dynamics of gene regulation using single-cell genomics.  
+I am a Staff Scientist at [LRBGE, CCR, NCI](https://ccr.cancer.gov/laboratory-of-receptor-biology-and-gene-expression). I am currently working with the labs of [Dan Larson](https://ccr.cancer.gov/staff-directory/daniel-r-larson) and [Shalini Oberdoerffer](https://ccr.cancer.gov/staff-directory/shalini-oberdoerffer) to understand the role of RNA modifications in gene expression.  
 
-I earned my Ph.D. in Quantitative and Computational Biosciences at the [Baylor College of Medicine](https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/programs/quantitative-computational-biosciences), where I worked with [Zhandong Liu](http://liuzlab.org/) and [Huda Zoghbi](https://www.bcm.edu/research/labs-and-centers/faculty-labs/huda-zoghbi-lab) focused on batch effects in NGS datasets, reproducibility & meta-research, and also worked with [Kunal Rai](https://www.mdanderson.org/research/departments-labs-institutes/labs/rai-laboratory.html) in the field of the cancer epigenomics. Prior to my Ph.D. studies, I worked as a Bioinformatics Scientist at the [Institute for Systems Biology](https://isbscience.org/), Seattle.
+
+I did my Postdoc at [Broad Institute of MIT and Harvard](https://broadinstitute.org/) on the dynamics of gene regulation using single-cell genomics. I worked with the labs of [Martin Aryee](https://aryee.mgh.harvard.edu/) and [Alex Meissner](https://hscrb.harvard.edu/people/alexander-meissner/) and was affiliated with [Dana Farber Cancer Institute](https://ds.dfci.harvard.edu/) & [MGH, Harvard Medical School](https://www.massgeneral.org/pathology/research).
+
+I earned my Ph.D. in Quantitative and Computational Biosciences at the [Baylor College of Medicine](https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/programs/quantitative-computational-biosciences), where I worked with [Zhandong Liu](http://liuzlab.org/) and [Huda Zoghbi](https://www.bcm.edu/research/labs-and-centers/faculty-labs/huda-zoghbi-lab) focused on batch effects in NGS datasets, reproducibility & meta-research, and also worked with [Kunal Rai](https://www.mdanderson.org/research/departments-labs-institutes/labs/rai-laboratory.html) in the field of the cancer epigenomics. Prior to my Ph.D. studies, I worked as a Bioinformatics Scientist at the [Institute for Systems Biology](https://isbscience.org/), Seattle with late [Ilya Shmulevich](https://isbscience.org/bio/ilya-shmulevich-phd/).
 
 I completed my MS in Computational Biology from [Carnegie Mellon](https://www.cmu.edu/ms-compbio/) and did my undergrad at [Vellore Institute of Technology](https://vit.ac.in/), where I earned B.Tech in Bioinformatics.
 
-<span style="color:red">**I am currently on the job market!**</span> 
+#<span style="color:red">**I am currently on the job market!**</span> 
 
-{{< icon name="download" pack="fas" >}}{{< staticref "media/CV_website.pdf" "newtab" >}} Academic CV{{< /staticref >}} &emsp; {{< icon name="download" pack="fas" >}}{{< staticref "media/Resume_AR_Mar23.pdf" "newtab" >}} Resume (Two Page){{< /staticref >}} &emsp; {{< icon name="download" pack="fas" >}}{{< staticref "media/reserach_summary.pdf" "newtab" >}} Research Summary {{< /staticref >}}
+#{{< icon name="download" pack="fas" >}}{{< staticref "media/CV_website.pdf" "newtab" >}} Academic CV{{< /staticref >}} &emsp; {{< icon name="download" pack="fas" >}}{{< staticref "media/Resume_AR_Mar23.pdf" "newtab" >}} Resume (Two Page){{< /staticref >}} &emsp; {{< icon name="download" pack="fas" >}}{{< staticref "media/reserach_summary.pdf" "newtab" >}} Research Summary {{< /staticref >}}

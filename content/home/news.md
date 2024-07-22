@@ -23,6 +23,7 @@ design:
   view: 1
 ---
 
+- 04-2024: Moved to NCI, NIH to start as [Staff Scientist](https://ccr.cancer.gov/staff-directory/ayush-raman)
 - 10-2022: Review manuscript on Computational methods to explore chromatin state dynamics got published in [*Briefings in Bioinformatics*](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac439/6751148)
 - 07-2021: Dual-omics protocol manuscript for profiling of methylome and transcriptome in single cell got published in [*Nature Protocols*](https://doi.org/10.1038/s41596-021-00571-9)
 - 07-2021: Manuscript on enhancer reprogramming in MPNST tumors got published in [*Acta Neuropathologica*](https://link.springer.com/article/10.1007/s00401-021-02341-z)
