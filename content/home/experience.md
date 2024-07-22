@@ -27,7 +27,7 @@ experience:
     company: Center for Cancer Research, National Cancer Institute, NIH
     company_url: https://ccr.cancer.gov/staff-directory/ayush-raman
     location: Bethesda, MD
-    date_start: '' #'2024-04-21'
+    date_start: 'April 2024'
     date_end: ''
     description: 
 
@@ -35,7 +35,7 @@ experience:
     company: Broad Institute
     company_url: https://www.broadinstitute.org/epigenomics
     location: Boston, MA
-    date_start: '' #'2018-12-03'
+    date_start: 'Dec 2018'
     date_end: ''
     description: 
   
@@ -43,7 +43,7 @@ experience:
     company: Baylor College of Medicine and Genome Medicine, MD Anderson Cancer Center
     company_url: ''
     location: Boston, MA
-    date_start: '' #'2018-12-03'
+    date_start: 'Sept 2013'
     date_end: ''
     description: 
 
@@ -51,7 +51,7 @@ experience:
     company: Institute for Systems Biology 
     company_url: 'https://isbscience.org/bio/ilya-shmulevich-phd/'
     location: Seattle, WA
-    date_start: ''  #'2010-07-12'
-    date_end: '' #'2013-07-09'
+    date_start: 'July 2010'
+    date_end: ''
     description:
 ---
