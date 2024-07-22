@@ -51,7 +51,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:araman@broadinstitute.org'
+  link: 'mailto:araman@alumni.cmu.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/aayushraman
