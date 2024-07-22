@@ -11,11 +11,6 @@
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
 [[main]]
-  name = "CV"
-  url = "media/CV_website.pdf"
-  weight = 20
-
-[[main]]
   name = "Recent News"
   url = "#news"
   weight = 30
@@ -24,6 +19,21 @@
   name = "Publications"
   url = "#featured"
   weight = 50
+
+[[main]]
+  name = "CV"
+  url = "media/CV_website.pdf"
+  weight = 20
+
+[[main]]
+  name = "Resume"
+  url = "media/Resume_AR_Mar23.pdf"
+  weight = 20
+
+[[main]]
+  name = "Research-Summary"
+  url = "media/reserach_summary.pdf"
+  weight = 20
 
 #[[main]]
 #  name = "Experience"

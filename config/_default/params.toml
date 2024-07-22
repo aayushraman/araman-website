@@ -93,11 +93,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "75 Ames Street", city = "Cambridge", region = "MA", postcode = "02142", country = "United States", country_code = "US"}
+address = {street = "41 Medlars Dr, NIH Building 41, Room B620", city = "Bethesda", region = "MD", postcode = "20894", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "42.36313059052297", longitude = "-71.08876034460589"}
+coordinates = {latitude = "38.99523064057174", longitude = "-77.10070632667981"}
 
 # Directions for visitors to locate you.
 directions = ""
