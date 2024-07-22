@@ -22,12 +22,13 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
-    - title: Staff Scientist
+  - title: Staff Scientist
     company: National Cancer Institute
     company_url: https://ccr.cancer.gov/staff-directory/ayush-raman
     location: Bethesda, MD
-    date_start: 'April 2024'
+    date_start: ''
     date_end: ''
     description: 
 
@@ -35,7 +36,7 @@ experience:
     company: Broad Institute
     company_url: https://www.broadinstitute.org/epigenomics
     location: Boston, MA
-    date_start: 'Dec 2018'
+    date_start: ''
     date_end: ''
     description: 
   
@@ -43,7 +44,7 @@ experience:
     company: Baylor College of Medicine and Genome Medicine, MD Anderson Cancer Center
     company_url: ''
     location: Boston, MA
-    date_start: 'Sept 2013'
+    date_start: ''
     date_end: ''
     description: 
 
@@ -51,7 +52,7 @@ experience:
     company: Institute for Systems Biology 
     company_url: 'https://isbscience.org/bio/ilya-shmulevich-phd/'
     location: Seattle, WA
-    date_start: 'July 2010'
+    date_start: ''
     date_end: ''
     description:
 ---
