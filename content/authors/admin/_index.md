@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ayush Raman, Ph.D.
+title: Ayush T Raman
 
 # Is this the primary user of the site?
 superuser: true
