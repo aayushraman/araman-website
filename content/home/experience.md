@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
     - title: Staff Scientist
-    company: Center for Cancer Research, National Cancer Institute, NIH
+    company: National Cancer Institute
     company_url: https://ccr.cancer.gov/staff-directory/ayush-raman
     location: Bethesda, MD
     date_start: 'April 2024'
