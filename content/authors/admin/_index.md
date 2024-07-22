@@ -72,9 +72,12 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: static/media/CV_website.pdf
+- icon: summary
+  icon_pack: publication
+  link: static/media/reserach_summary.pdf  
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -87,4 +90,4 @@ I am a Staff Scientist at [LRBGE, CCR, NCI](https://ccr.cancer.gov/laboratory-of
 
 I earned my Ph.D. in Quantitative and Computational Biosciences at the [Baylor College of Medicine](https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/programs/quantitative-computational-biosciences), where I worked with [Zhandong Liu](http://liuzlab.org/) and [Huda Zoghbi](https://www.bcm.edu/research/labs-and-centers/faculty-labs/huda-zoghbi-lab) focused on batch effects in NGS datasets, reproducibility & meta-research, and also worked with [Kunal Rai](https://www.mdanderson.org/research/departments-labs-institutes/labs/rai-laboratory.html) in the field of the cancer epigenomics. Prior to my Ph.D. studies, I worked as a Bioinformatics Scientist at the [Institute for Systems Biology](https://isbscience.org/), Seattle with late [Ilya Shmulevich](https://isbscience.org/bio/ilya-shmulevich-phd/). I completed my MS in Computational Biology from [Carnegie Mellon](https://www.cmu.edu/ms-compbio/) and did my undergrad at [Vellore Institute of Technology](https://vit.ac.in/), where I earned B.Tech in Bioinformatics.
 
-Here is the [summary](< staticref "media/reserach_summary.pdf" "newtab" >) of my research.
+Here is the [summary]("static/media/reserach_summary.pdf" "newtab") of my research.
