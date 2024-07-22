@@ -25,16 +25,16 @@ education:
   courses:
   - course: Postdoc in Computational Epigenomics
     institution: Broad Institute of MIT and Harvard, DFCI/MGH/HMS
-    year: 2024
+    year: 
   - course: PhD in Quantitative and Computational Biosciences
     institution: Baylor College of Medicine
-    year: 2018
+    year: 
   - course: MS in Computational Biology
     institution: Carnegie Mellon University
-    year: 2009
+    year: 
   - course: BTech in Bioinformatics
     institution: Vellore Institute of Technology
-    year: 2006
+    year: 
 
 # Interests to show in About widget
 interests:
@@ -83,12 +83,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a Staff Scientist at [LRBGE, CCR, NCI](https://ccr.cancer.gov/laboratory-of-receptor-biology-and-gene-expression). I am currently working with the labs of [Dan Larson](https://ccr.cancer.gov/staff-directory/daniel-r-larson) and [Shalini Oberdoerffer](https://ccr.cancer.gov/staff-directory/shalini-oberdoerffer) to understand the role of RNA modifications and splicing in gene expression.  
+I am a Staff Scientist at [LRBGE, CCR, NCI](https://ccr.cancer.gov/laboratory-of-receptor-biology-and-gene-expression). I am currently working with the labs of [Dan Larson](https://ccr.cancer.gov/staff-directory/daniel-r-larson) and [Shalini Oberdoerffer](https://ccr.cancer.gov/staff-directory/shalini-oberdoerffer) to understand the role of RNA modifications and splicing factors in gene expression. I did my Postdoc at [Broad Institute of MIT and Harvard](https://broadinstitute.org/) and [Dana Farber Cancer Institute](https://ds.dfci.harvard.edu/) on the dynamics of gene regulation using single-cell genomics. I worked with the labs of [Martin Aryee](https://aryee.mgh.harvard.edu/) and [Alex Meissner](https://hscrb.harvard.edu/people/alexander-meissner/).   
 
-I did my Postdoc at [Broad Institute of MIT and Harvard](https://broadinstitute.org/) on the dynamics of gene regulation using single-cell genomics. I worked with the labs of [Martin Aryee](https://aryee.mgh.harvard.edu/) and [Alex Meissner](https://hscrb.harvard.edu/people/alexander-meissner/) and was affiliated with [Dana Farber Cancer Institute](https://ds.dfci.harvard.edu/) & [MGH, Harvard Medical School](https://www.massgeneral.org/pathology/research). I earned my Ph.D. in Quantitative and Computational Biosciences at the [Baylor College of Medicine](https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/programs/quantitative-computational-biosciences), where I worked with [Zhandong Liu](http://liuzlab.org/) and [Huda Zoghbi](https://www.bcm.edu/research/labs-and-centers/faculty-labs/huda-zoghbi-lab) focused on batch effects in NGS datasets, reproducibility & meta-research, and also worked with [Kunal Rai](https://www.mdanderson.org/research/departments-labs-institutes/labs/rai-laboratory.html) in the field of the cancer epigenomics. Prior to my Ph.D. studies, I worked as a Bioinformatics Scientist at the [Institute for Systems Biology](https://isbscience.org/), Seattle with late [Ilya Shmulevich](https://isbscience.org/bio/ilya-shmulevich-phd/).
+I earned my Ph.D. in Quantitative and Computational Biosciences at the [Baylor College of Medicine](https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/programs/quantitative-computational-biosciences), where I worked with [Zhandong Liu](http://liuzlab.org/) and [Huda Zoghbi](https://www.bcm.edu/research/labs-and-centers/faculty-labs/huda-zoghbi-lab) focused on batch effects in NGS datasets, reproducibility & meta-research, and also worked with [Kunal Rai](https://www.mdanderson.org/research/departments-labs-institutes/labs/rai-laboratory.html) in the field of the cancer epigenomics. Prior to my Ph.D. studies, I worked as a Bioinformatics Scientist at the [Institute for Systems Biology](https://isbscience.org/), Seattle with late [Ilya Shmulevich](https://isbscience.org/bio/ilya-shmulevich-phd/). I completed my MS in Computational Biology from [Carnegie Mellon](https://www.cmu.edu/ms-compbio/) and did my undergrad at [Vellore Institute of Technology](https://vit.ac.in/), where I earned B.Tech in Bioinformatics.
 
-I completed my MS in Computational Biology from [Carnegie Mellon](https://www.cmu.edu/ms-compbio/) and did my undergrad at [Vellore Institute of Technology](https://vit.ac.in/), where I earned B.Tech in Bioinformatics.
-
-#<span style="color:red">**I am currently on the job market!**</span> 
-
-#{{< icon name="download" pack="fas" >}}{{< staticref "media/CV_website.pdf" "newtab" >}} Academic CV{{< /staticref >}} &emsp; {{< icon name="download" pack="fas" >}}{{< staticref "media/Resume_AR_Mar23.pdf" "newtab" >}} Resume (Two Page){{< /staticref >}} &emsp; {{< icon name="download" pack="fas" >}}{{< staticref "media/reserach_summary.pdf" "newtab" >}} Research Summary {{< /staticref >}}
+Here is the summary of my research {{< staticref "media/reserach_summary.pdf" "newtab" >}}.
