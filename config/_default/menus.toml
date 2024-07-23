@@ -26,14 +26,14 @@
   weight = 20
 
 [[main]]
-  name = "Resume"
-  url = "media/Resume_AR_Mar23.pdf"
-  weight = 20
-
-[[main]]
   name = "Research Summary"
   url = "media/reserach_summary.pdf"
   weight = 20
+
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 30
 
 #[[main]]
 #  name = "Experience"
@@ -51,6 +51,6 @@
 #  weight = 40
 
 #[[main]]
-name = "Contact"
-url = "#contact"
-weight = 30
+#  name = "Resume"
+#  url = "media/Resume_AR_Mar23.pdf"
+#  weight = 20
