@@ -30,10 +30,10 @@
   url = "media/reserach_summary.pdf"
   weight = 20
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 30
+#[[main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 30
 
 #[[main]]
 #  name = "Experience"
