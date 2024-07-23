@@ -31,7 +31,7 @@
   weight = 20
 
 [[main]]
-  name = "Research-Summary"
+  name = "Research Summary"
   url = "media/reserach_summary.pdf"
   weight = 20
 
@@ -51,6 +51,6 @@
 #  weight = 40
 
 #[[main]]
-#  name = "Contact"
-#  url = "#contact"
-# weight = 60
+name = "Contact"
+url = "#contact"
+weight = 30
