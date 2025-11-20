@@ -23,17 +23,17 @@
 [[main]]
   name = "Recent News"
   url = "#news"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Selected Publications"
   url = "#featured"
-  weight = 50
+  weight = 30
 
 [[main]]
   name = "All Publications"
   url = "#publications"
-  weight = 100
+  weight = 50
 
 
 #[[main]]
