@@ -13,12 +13,12 @@
 [[main]]
   name = "Resume"
   url = "media/resume.pdf" ## CV_website.pdf
-  weight = 20
+  weight = 5
 
 [[main]]
   name = "Research Summary"
   url = "media/reserach_summary.pdf"
-  weight = 20
+  weight = 10
 
 [[main]]
   name = "Recent News"
@@ -28,12 +28,12 @@
 [[main]]
   name = "Selected Publications"
   url = "#featured"
-  weight = 30
+  weight = 15
 
 [[main]]
   name = "All Publications"
   url = "#publications"
-  weight = 50
+  weight = 30
 
 
 #[[main]]
